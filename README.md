@@ -32,7 +32,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats:
-![langs](https://github.com/nullZheng/github-stats/blob/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
-![langslight](https://github.com/nullZheng/github-stats/blob/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)
-![overview](https://github.com/nullZheng/github-stats/blob/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)
-![overviewlight](https://github.com/nullZheng/github-stats/blob/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)
+![langs](https://raw.githubusercontent.com/nullZheng/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![langslight](https://raw.githubusercontent.com/nullZheng/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![overview](https://raw.githubusercontent.com/nullZheng/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![overviewlight](https://raw.githubusercontent.com/nullZheng/github-stats/master/generated/overview.svg#gh-light-mode-only)
