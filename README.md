@@ -20,7 +20,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=flat&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2300f.svg?style=flat&logo=sqlite&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
