@@ -34,5 +34,3 @@
 # 📊 GitHub Stats:
 ![langs](https://raw.githubusercontent.com/nullZheng/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![langslight](https://raw.githubusercontent.com/nullZheng/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![overview](https://raw.githubusercontent.com/nullZheng/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![overviewlight](https://raw.githubusercontent.com/nullZheng/github-stats/master/generated/overview.svg#gh-light-mode-only)
