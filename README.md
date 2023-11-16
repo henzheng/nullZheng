@@ -17,7 +17,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white)
 ![Electron](https://img.shields.io/badge/electron-%2347848F.svg?style=flat&logo=electron&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/huggingface-%23FFFF00.svg?style=flat&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=flat&logo=sqlite&logoColor=white)
